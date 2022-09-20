@@ -4,6 +4,8 @@ A collection of world backups from my Minecraft city I've been working on since 
 
 Most recent save: [9-12-22](https://github.com/yuddanti/Minecraft-City/blob/bc562594a1e53f6c489b3419d83b94cccc8295c1/The%20Hotel%209-12-22.mcworld)
 
+[World Map](The Hotel World Map UPDATED 9-12-22.png)
+
 ### Notable Locations
 - UT Austin Campus
 - One World Trade Center
