@@ -6,6 +6,8 @@ Most recent save: [9-12-22](https://github.com/yuddanti/Minecraft-City/blob/bc56
 
 [Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/bedf823365104a787774f196381d1fa8cc050a7f/The%20Hotel%20World%20Map%20UPDATED%209-12-22.png)
 
+![Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/bedf823365104a787774f196381d1fa8cc050a7f/The%20Hotel%20World%20Map%20UPDATED%209-12-22.png?raw=true "Annotated World Map")
+
 ### Notable Locations
 - UT Austin Campus
 - One World Trade Center
