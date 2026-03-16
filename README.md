@@ -4,9 +4,9 @@ A collection of world backups from my Minecraft city I've been working on since 
 
 Most recent save: [9-12-22](https://github.com/yuddanti/Minecraft-City/blob/bc562594a1e53f6c489b3419d83b94cccc8295c1/The%20Hotel%209-12-22.mcworld)
 
-[Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/bedf823365104a787774f196381d1fa8cc050a7f/The%20Hotel%20World%20Map%20UPDATED%209-12-22.png)
+[Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/1672a698a39a7565e15b88ba9c2eb567f78eaca3/The%20Hotel%20World%20Map%203-13-26%20ANNOTATED.png)
 
-![Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/bedf823365104a787774f196381d1fa8cc050a7f/The%20Hotel%20World%20Map%20UPDATED%209-12-22.png?raw=true "Annotated World Map")
+![Annotated World Map](https://github.com/yuddanti/Minecraft-City/blob/1672a698a39a7565e15b88ba9c2eb567f78eaca3/The%20Hotel%20World%20Map%203-13-26%20ANNOTATED.png)
 
 ### Notable Locations
 - UT Austin Campus
